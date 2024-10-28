@@ -1,2 +1,1 @@
-# bamoe-developer-tools-for-vscode
-host VS Code extension content for BAMOE!
+This repository has been archived. Please refer to https://github.com/ibm/bamoe
